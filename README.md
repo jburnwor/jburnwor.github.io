@@ -18,6 +18,7 @@ Tic-Tac-Toe Master is an easy to learn, hard to master variants of the classic g
 
 I worked on setting up and connecting the firebase database with one of my teammates, create and track the challenges, and set up one of the game board themes.
 
+(The database for accounts is full. In order to play, you can **select the guest account**)
 [Play Tic-Tac-Toe Master](https://tic-tac-toe-master.herokuapp.com/)
 
 ![Image](/img/funnums.png)
