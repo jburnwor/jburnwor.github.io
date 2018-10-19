@@ -29,3 +29,5 @@ Built with 4 other people in Web Applications class. I worked on setting up and 
 Minigames for arithmetic, fractions, and inequalities made for android phones. Each mini game rewards correct actions with higher scores. Engaging animations to make math fun! 
 
 Created with 4 other people in Intro to Software Engineering class. I worked on design for all the mini games, the artwork for 2 of the games, and programmed smaller functions like the mini games timers.
+
+[GitHub Repository](https://github.com/arbaird/FunNums)
