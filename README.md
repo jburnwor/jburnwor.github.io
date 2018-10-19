@@ -1,5 +1,3 @@
-# **Jacob Burnworth**
-
 ## About
 I am a senior at UC Santa Cruz studying Computer Science: Computer Game Design. Throughout school I have worked with small groups to develop teamwork, programming, and design skills. I enjoy developing fun and interesting computer games with creative and motivated people.
 
