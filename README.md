@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Jacob Burnworth
 
-You can use the [editor on GitHub](https://github.com/jburnwor/jburnwor.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About
+I am a senior at UC Santa Cruz studying Computer Science: Game Design. Throughout school I have worked with small groups to develop teamwork, programming, and design skills. I enjoy developing fun and interesting computer games with creative and motivated people.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+![Image](/img/rldq.png)
+Real Life Done Quick is a game about the exhaustion of everyday life and the balance of physical health and speed of succeeding in life. In the form of mini games, the player completes daily tasks on a timer to gain points and avoid losing health. The game follows the repetition of the same daily tasks with repetitive movements throughout the week of someone’s life. The player must find balance in speed and precision or die rich ignoring their health.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I worked on the design for the mini games involving a physical prototype and playtesting, and programmed 3 of the mini games and the menues.
 
-```markdown
-Syntax highlighted code block
+[Play Real Life Done Quick](https://yashimvsolanki.itch.io/rldq-real-life-done-quick)
 
-# Header 1
-## Header 2
-### Header 3
+![Image](/img/tictactoe.png)
 
-- Bulleted
-- List
+Tic-Tac-Toe Master is an easy to learn, hard to master variants of the classic game. It includes 4 versions of Tic-Tac-Toe, a cosmetic shop, trackable achievements, match making. 
 
-1. Numbered
-2. List
+I worked on setting up and connecting the firebase database with one of my teammates, create and track the challenges, and set up one of the game board themes.
 
-**Bold** and _Italic_ and `Code` text
+[Play Tic-Tac-Toe Master](https://tic-tac-toe-master.herokuapp.com/)
 
-[Link](url) and ![Image](src)
-```
+![Image](/img/funnums.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Minigames for arithmetic, fractions, and inequalities made for android phones. Each mini game rewards correct actions with higher scores. Engaging animations to make math fun! 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jburnwor/jburnwor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I worked on design for all the mini games, the artwork for 2 of the games, and programmed smaller functions like the mini games timers.
