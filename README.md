@@ -14,7 +14,7 @@ I worked on the design for the mini games involving a physical prototype and pla
 
 ![Image](/img/tictactoe.png)
 
-Tic-Tac-Toe Master is an easy to learn, hard to master variants of the classic game. It includes 4 versions of Tic-Tac-Toe, a cosmetic shop, trackable achievements, match making. 
+Tic-Tac-Toe Master is an easy to learn, hard to master variants of the classic game. It includes 4 versions of Tic-Tac-Toe, a cosmetic shop, trackable achievements, match-making. 
 
 I worked on setting up and connecting the firebase database with one of my teammates, create and track the challenges, and set up one of the game board themes.
 
