@@ -18,6 +18,8 @@ Tic-Tac-Toe Master is an easy to learn, hard to master variants of the classic g
 
 Built with 4 other people in Web Applications class. I worked on setting up and connecting the firebase database with one of my teammates, create and track the challenges, and set up one of the game board themes.
 
+[Watch a video of the website and games](https://www.youtube.com/watch?v=AgtZBP0WBWY)
+
 (The database for storing accounts is full. In order to play, you can **select the guest account**)
 [Play Tic-Tac-Toe Master](https://tic-tac-toe-master.herokuapp.com/)
 
@@ -27,5 +29,7 @@ Built with 4 other people in Web Applications class. I worked on setting up and 
 Minigames for arithmetic, fractions, and inequalities made for android phones. Each mini game rewards correct actions with higher scores. Engaging animations to make math fun! 
 
 Created with 4 other people in Intro to Software Engineering class. I worked on design for all the mini games, the artwork for 2 of the games, and programmed smaller functions like the mini games timers.
+
+[Video of the game](https://www.youtube.com/watch?v=qpPWwrXrgl4)
 
 [GitHub Repository](https://github.com/arbaird/FunNums)
