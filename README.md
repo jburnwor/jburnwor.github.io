@@ -33,3 +33,7 @@ Created with 4 other people in Intro to Software Engineering class. I worked on 
 [Video of the game](https://www.youtube.com/watch?v=qpPWwrXrgl4)
 
 [GitHub Repository](https://github.com/arbaird/FunNums)
+
+### Resume ###
+![Image](/img/Resume.png)
+Download the pdf version of my resume [here](http://jburnwor.github.io/jburnwor.github.io/documents/Resume.pdf)
