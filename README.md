@@ -3,6 +3,12 @@ I am a senior at UC Santa Cruz studying Computer Science: Computer Game Design. 
 
 ## **Projects**
 
+### Finley Finds a Home (Jan. 25 - 27, 2019)
+![Image](/img/FinleyFindsAHome.png)
+Finley Finds a Home is a game about a slug helping a dog find a home. In the game you control a flying dog that can toss objects inot a container on the slugs back. I worked with a small team to design the concept and I programmed the dog aspects of the game. This was my first ever game jam and first ever unity game.
+
+[Games page](https://globalgamejam.org/2019/games/finley-finds-home)
+
 ### rLDQ (Apr. 2 - June 8, 2018)
 ![Image](/img/rldq.png)
 Real Life Done Quick is a game about the exhaustion of everyday life and the balance of physical health and speed of succeeding in life. In the form of mini games, the player completes daily tasks on a timer to gain points and avoid losing health. The game follows the repetition of the same daily tasks with repetitive movements throughout the week of someone’s life. The player must find balance in speed and precision or die rich ignoring their health.
