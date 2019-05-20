@@ -6,7 +6,7 @@ I am a senior at UC Santa Cruz studying Computer Science: Computer Game Design. 
 ### Finley Finds a Home (Jan. 25 - 27, 2019)
 ![Image](/img/FinleyFindsAHome.png)
 
-Finley Finds a Home is a game about a slug helping a dog find a home. In the game you control a flying dog that can toss items for the dog's home in the air for the slugs to catch. I worked with a small team of 6 other people to create this small game. I helped design the concept and I programmed the dog's actions, item spawning and control, and scoring into the game. This was my first ever game jam and first ever unity game.
+Finley Finds a Home is a game about a slug helping a dog find a home. In the game you control a flying dog that can toss items for the dog's home in the air for the slugs to catch. I worked with a small team of 6 other people to create this small game. I helped design the concept and I programmed the dog's actions, item spawning and control, and scoring into the game. This was my first ever game jam and first ever unity game. Even though the final turn in for the game was unfinished, I learned a lot about unity and had fun making a quick game with new people.
 
 [Game Jam page](https://globalgamejam.org/2019/games/finley-finds-home)
 
