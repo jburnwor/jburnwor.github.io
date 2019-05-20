@@ -35,5 +35,5 @@ Created with 4 other people in Intro to Software Engineering class. I worked on 
 [GitHub Repository](https://github.com/arbaird/FunNums)
 
 ### Resume ###
-![Image](/img/Resume.png)
+![Image](/img/Resume.jpg)
 Download the pdf version of my resume [here](http://jburnwor.github.io/jburnwor.github.io/documents/Resume.pdf)
