@@ -4,6 +4,7 @@ I am a senior at UC Santa Cruz studying Computer Science: Computer Game Design. 
 ## **Projects**
 
 ### House of Styx (Jan 4 - June 7, 2019)
+![Image](/img/HoS.jpg)
 
 House of Styx is a violent, dark surrealist action game where the player takes control of the main character to delve deep into the mind to combat their inner fears and demons. It is a single player pc game made with Unity.
 
@@ -52,6 +53,6 @@ Created with 4 other people in Intro to Software Engineering class. I worked on 
 
 [GitHub Repository](https://github.com/arbaird/FunNums)
 
-### Resume ###
+## Resume 
 ![Image](/img/Resume.jpg)
 Download the pdf version of my resume [here](http://jburnwor.github.io/jburnwor.github.io/documents/Resume.pdf)
