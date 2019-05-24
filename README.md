@@ -3,10 +3,20 @@ I am a senior at UC Santa Cruz studying Computer Science: Computer Game Design. 
 
 ## **Projects**
 
+### House of Styx (Jan 4 - June 7, 2019)
+
+House of Styx is a violent, dark surealist action game where the player takes control of the main character to delve deep into the mind to combat their inner fears and demons. It is a singleplayer pc game made with Unity.
+
+I was a programmer on a team of 13 people, 3 other programmers, 2 voice actors, 1 composer, 4 artists, 1 artist coardinator, and a producer. For most of the project I worked on programming the AI using a finite state machine to create 2 enemy types and a boss, but I also worked on other general tasks like creating particle systems, setting up animator states, creating a trailer, and making a website.
+
+[House of Styx website (currently in progress)](https://houseofstyx.me)
+
 ### Finley Finds a Home (Jan. 25 - 27, 2019)
 ![Image](/img/FinleyFindsAHome.png)
 
-Finley Finds a Home is a game about a slug helping a dog find a home. In the game you control a flying dog that can toss items for the dog's home in the air for the slugs to catch. I worked with a small team of 6 other people to create this small game. I helped design the concept and I programmed the dog's actions, item spawning and control, and scoring into the game. This was my first ever game jam and first ever unity game. Even though the final turn in for the game was unfinished, I learned a lot about unity and had fun making a quick game with new people.
+Finley Finds a Home is a game for the Global Game Jam about a slug helping a dog find a home. In the game you control a flying dog that can toss items for the dog's home in the air for the slugs to catch. 
+
+I worked with a small team of 6 other people to create this small game, 5 artists and one other programmer. I helped design the concept and I programmed the dog's actions, item spawning and control, and scoring into the game. This was my first ever game jam and first ever unity game. Even though the final turn in for the game was unfinished, I learned a lot about unity and had fun making a quick game with new people.
 
 [Game Jam page](https://globalgamejam.org/2019/games/finley-finds-home)
 
