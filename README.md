@@ -5,11 +5,11 @@ I am a senior at UC Santa Cruz studying Computer Science: Computer Game Design. 
 
 ### House of Styx (Jan 4 - June 7, 2019)
 
-House of Styx is a violent, dark surealist action game where the player takes control of the main character to delve deep into the mind to combat their inner fears and demons. It is a singleplayer pc game made with Unity.
+House of Styx is a violent, dark surrealist action game where the player takes control of the main character to delve deep into the mind to combat their inner fears and demons. It is a single player pc game made with Unity.
 
-I was a programmer on a team of 13 people, 3 other programmers, 2 voice actors, 1 composer, 4 artists, 1 artist coardinator, and a producer. For most of the project I worked on programming the AI using a finite state machine to create 2 enemy types and a boss, but I also worked on other general tasks like creating particle systems, setting up animator states, creating a trailer, and making a website.
+I was a programmer on a team of 13 people, 3 other programmers, 2 voice actors, 1 composer, 4 artists, 1 artist coordinator, and a producer. For most of the project I worked on programming the AI using a finite state machine to create 2 enemy types and a boss, but I also worked on other general tasks like creating particle systems, setting up animator states, creating a trailer, and making a website.
 
-[House of Styx website (currently in progress)](https://houseofstyx.me)
+House of Styx website (currently in progress)
 
 ### Finley Finds a Home (Jan. 25 - 27, 2019)
 ![Image](/img/FinleyFindsAHome.png)
