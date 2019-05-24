@@ -4,7 +4,7 @@ I am a senior at UC Santa Cruz studying Computer Science: Computer Game Design. 
 ## **Projects**
 
 ### House of Styx (Jan 4 - June 7, 2019)
-![Image](/img/HoS.jpg)
+<img src="/img/HoS.jpg" alt="HoS" width="200"/>
 
 House of Styx is a violent, dark surrealist action game where the player takes control of the main character to delve deep into the mind to combat their inner fears and demons. It is a single player pc game made with Unity.
 
