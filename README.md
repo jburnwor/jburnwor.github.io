@@ -11,6 +11,7 @@ House of Styx is a violent, dark surrealist action game where the player takes c
 I was a programmer on a team of 13 people, 3 other programmers, 2 voice actors, 1 composer, 4 artists, 1 artist coordinator, and a producer. For most of the project I worked on programming the AI using a finite state machine to create 2 enemy types and a boss, but I also worked on other general tasks like creating particle systems, setting up animator states, and creating a trailer.
 
 [House of Styx website](https://houseofstyx.ucraft.net/)
+
 [House of Styx Gameplay Trailer](https://www.youtube.com/watch?v=ujdBcqK5wEQ)
 
 ### Finley Finds a Home (Jan. 25 - 27, 2019)
